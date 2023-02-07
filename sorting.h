@@ -3,7 +3,7 @@
 #include <fstream>
 #include <vector>
 
-void linearSort(std::vector<int> sortThis, int nodes);
+void selectionSort(std::vector<int> sortThis, int nodes);
 
 void bubbleSort(int vector, char nodes);
 
