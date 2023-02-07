@@ -26,7 +26,7 @@ std::vector<int> random2(b);
 std::vector<int> random3(c);
 std::vector<int> random4(d);
 
-linearSort(sorted1, a);
+selectionSort(sorted1, a);
 
 return 0;
 
