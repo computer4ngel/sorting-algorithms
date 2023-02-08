@@ -3,10 +3,10 @@
 #include <fstream>
 #include <vector>
 
-void selectionSort(std::vector<int> sortThis, int nodes);
+void selectionSort(std::vector<int> sortThis, int nodes, char mode);
 
-void bubbleSort(int vector, char nodes);
+void bubbleSort(int vector, int nodes, char mode);
 
-void insertionSort(int vector, char nodes);
+void insertionSort(int vector, int nodes, char mode);
 
 #endif
